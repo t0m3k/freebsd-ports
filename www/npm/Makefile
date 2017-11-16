@@ -21,7 +21,7 @@ OPTIONS_DEFAULT=NODE8
 NODE4_DESC=	Use Node.js 4.x (www/node4) as backend
 NODE6_DESC=	Use Node.js 6.x (www/node6) as backend
 NODE8_DESC=	Use Node.js 8.x (www/node8) as backend
-NODE8_DESC=	Use Node.js 9.x (www/node) as backend
+NODE9_DESC=	Use Node.js 9.x (www/node) as backend
 
 NO_ARCH=	yes
 NO_BUILD=	yes
